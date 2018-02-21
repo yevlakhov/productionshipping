@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<phpunit colors="true" bootstrap="tests/autoload.php">
+    <testsuites>
+        <testsuite name="productionshipping">
+            <directory suffix="Test.php">./tests</directory>
+        </testsuite>
+    </testsuites>
+
+    <filter>
+        <whitelist>
+            <directory>./</directory>
+            <exclude>
+                <directory>./tests</directory>
+                <directory>./coverage</directory>
+                <directory>./sql</directory>
+                <directory>./translations</directory>
+                <directory>./upgrade</directory>
+                <directory>./views</directory>
+                <directory>./vendor</directory>
+                <file>index.php</file>
+                <file>./classes/index.php</file>
+                <file>./controllers/index.php</file>
+                <file>./controllers/admin/index.php</file>
+            </exclude>
+        </whitelist>
+    </filter>
+</phpunit>

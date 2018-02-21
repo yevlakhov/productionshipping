@@ -1,0 +1,20 @@
+{
+    "name": "profsolution/productionshipping",
+    "description": "production & shipping module",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "ProfSolution",
+            "email": "productionshipping@profsolution.net"
+        }
+    ],
+    "autoload": {
+      "classmap": ["."]
+    },
+    "require": {
+      "phpunit/phpunit": "5.3",
+        "mockery/mockery": "0.9.4",
+        "pimple/pimple": "3.0",
+        "symfony/dependency-injection": "v2.8.6"
+    }
+}

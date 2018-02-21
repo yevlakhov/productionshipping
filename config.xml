@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>productionshipping</name>
+	<displayName><![CDATA[Production and Shipping]]></displayName>
+	<version><![CDATA[1.0.0]]></version>
+	<description><![CDATA[Production and Shipping]]></description>
+	<author><![CDATA[ProfSolution]]></author>
+	<tab><![CDATA[administration]]></tab>
+	<is_configurable>1</is_configurable>
+	<need_instance>1</need_instance>
+	<limited_countries></limited_countries>
+</module>

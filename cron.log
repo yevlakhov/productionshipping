@@ -1,0 +1,8 @@
+PHP Warning:  Module 'mcrypt' already loaded in Unknown on line 0
+PHP Warning:  PHP Startup: pimple: Unable to initialize module
+Module compiled with module API=20121212
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+Sending Manufacturer Report 2016-07-13 17:31:01 
+

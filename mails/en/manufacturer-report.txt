@@ -1,0 +1,7 @@
+Orders report for {manufName}
+
+Please see an attached file
+
+{shop_name} - {shop_url}
+
+{shop_url} powered by PrestaShop™

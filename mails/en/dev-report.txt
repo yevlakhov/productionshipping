@@ -1,0 +1,4 @@
+
+{devReport}
+
+{shop_url} powered by PrestaShop™
