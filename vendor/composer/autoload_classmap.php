@@ -42,6 +42,8 @@ return array(
     'ClassWithStaticMethod' => $vendorDir . '/phpunit/phpunit-mock-objects/tests/_fixture/ClassWithStaticMethod.php',
     'ClassWithToString' => $vendorDir . '/phpunit/phpunit/tests/_files/ClassWithToString.php',
     'ClonedDependencyTest' => $vendorDir . '/phpunit/phpunit/tests/_files/ClonedDependencyTest.php',
+    'ComposerAutoloaderInit27ae2ef8b85e6dffebb8f87b207a1634' => $vendorDir . '/composer/autoload_real.php',
+    'Composer\\Autoload\\ClassLoader' => $vendorDir . '/composer/ClassLoader.php',
     'ConcreteTest' => $vendorDir . '/phpunit/phpunit/tests/_files/ConcreteTest.php',
     'ConcreteWithMyCustomExtensionTest' => $vendorDir . '/phpunit/phpunit/tests/_files/ConcreteTest.my.php',
     'ConfigurationGenerator' => $vendorDir . '/phpunit/phpunit/src/Util/ConfigurationGenerator.php',
